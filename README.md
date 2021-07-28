@@ -1,4 +1,4 @@
-# # Actividad 07: Optimización heurística
+#  Actividad 07: Optimización heurística
 ## Sebastián Hernández Mantilla
 
 ### Optimización
