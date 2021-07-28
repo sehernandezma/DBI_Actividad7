@@ -1342,7 +1342,7 @@ print(solution.tour)
 
 ##### La mejor solución encontrada por la librería es:
 
-![](imagenes/Pants.PNG)
+![](imagenes/Pants.png)
 
 
 ```python
